@@ -1,0 +1,455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"shell"
+			],
+			[
+				"f",
+				"file_base_name"
+			],
+			[
+				"fil",
+				"file_base_name"
+			],
+			[
+				"c",
+				"cmd"
+			],
+			[
+				"fi",
+				"file_base_name"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"d",
+				"dropdown"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"img",
+				"background-image\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"bo",
+				"button\tTag"
+			],
+			[
+				"dr",
+				"dropdown-content"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"si",
+				"sidebar"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"l",
+				"line-height\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"ta",
+				"text-align\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"g",
+				"gif"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"onmou",
+				"onmouseover\tAttr"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/semester5/prak pemrograman web/modul1/examle.html",
+		"/D/semester5/pemrograman WEB/Tugas 0/cvweb.html",
+		"/D/semester5/pemrograman Fungsional/modul1/example.html",
+		"/D/semester 4/RPL/templates/index.html",
+		"/D/semester 4/RPL/templates/add.html",
+		"/D/semester 4/RPL/templates/edit.html",
+		"/D/semester 4/Struktur Data Prak/Pepustakaan/index.html",
+		"/D/semester 4/Struktur Data Prak/Pepustakaan/perpusHtml/style.css",
+		"/D/semester 4/Struktur Data Prak/Pepustakaan/perpusHtml/script.js",
+		"/D/semester 4/Struktur Data Prak/Pepustakaan/perpusHtml/index.html",
+		"/D/semester 4/Struktur Data Prak/Pepustakaan/tambah.html",
+		"/C/Users/PERSONALISE/Documents/coba.html",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/opo yo/teknik komputer.html",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/home/index1.html",
+		"/C/Users/PERSONALISE/Music/gwsYLREHS.html",
+		"/C/Users/PERSONALISE/Music/bisayuk.html",
+		"/C/Users/PERSONALISE/Videos/untukayang.html",
+		"/D/semester 2/PBO/praktikum/kkakak.java",
+		"/E/sublime/newt.py",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/tkj/mart.html",
+		"/E/sublime/pascal sublime.pas",
+		"/D/semester 1/pemrograman dasar/sublime/modul3.c",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/tkj/angel.html",
+		"/E/sublime/tugas1.c",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/mei 2021/latian.html",
+		"/C/Users/PERSONALISE/AppData/Roaming/Sublime Text 3/Packages/User/pascal.sublime-build",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/mei 2021/latian",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/mei 2021/utama.html",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/2021 mei",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/tkj/jajal.html",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/tkj/index.html",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/tkj/halama1.html",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/tkj/halaman2.html",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/tkj/halaman3.html",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/tkj/latian88.html",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/tkj/y.html",
+		"/D/SMKN 1 BAURENO_TKJ 2@ID/X_TKJ2/sublime/tkj/latian.html",
+		"/C/Users/PERSONALISE/Documents/sublime/tkj/mart.html",
+		"/E/Crusader.zip",
+		"/C/Users/PERSONALISE/Documents/sublime/dikumpulkan/kkk.css",
+		"/C/Users/PERSONALISE/Documents/sublime/dikumpulkan/multimedia.html",
+		"/C/Users/PERSONALISE/Documents/sublime/dikumpulkan/rekayasa.html",
+		"/C/Users/PERSONALISE/Documents/sublime/dikumpulkan/komputer.html",
+		"/C/Users/PERSONALISE/Documents/sublime/dikumpulkan/Percobaan.html",
+		"/C/Users/PERSONALISE/Documents/sublime/tkj/angel.html",
+		"/C/Users/PERSONALISE/Documents/sublime/tkj/latian.html",
+		"/C/Users/PERSONALISE/Documents/sublime/tkj/latian88.html",
+		"/C/Users/PERSONALISE/Documents/sublime/LOGIN/aasssdddddf.html",
+		"/C/Users/PERSONALISE/Documents/sublime/home/kui.html",
+		"/C/Users/PERSONALISE/Documents/sublime/opo yo/mm.html",
+		"/C/Users/PERSONALISE/Documents/sublime/opo yo/rpl.html",
+		"/C/Users/PERSONALISE/Documents/sublime/opo yo/kui.css",
+		"/C/Users/PERSONALISE/Documents/sublime/opo yo/teknik komputer.html",
+		"/C/Users/PERSONALISE/Documents/sublime/opo yo/Percobaan.html",
+		"/C/Users/PERSONALISE/Documents/sublime/home/rpl.html",
+		"/C/Users/PERSONALISE/Documents/sublime/home/mm.html",
+		"/C/Users/PERSONALISE/Documents/RANGKAIAN/Rangkaian OR.PNG",
+		"/C/Users/PERSONALISE/Documents/sublime/home/tkj.html",
+		"/C/Users/PERSONALISE/Documents/sublime/khusus/ujicoba.css",
+		"/C/Users/PERSONALISE/Documents/belajar ngodim/bisnubruk.html",
+		"/C/Users/PERSONALISE/Documents/sublime/index222.html",
+		"/C/Users/PERSONALISE/Documents/sublime/Percobaan.html",
+		"/C/Users/PERSONALISE/Documents/sublime/khusus/angel.html",
+		"/C/Users/PERSONALISE/Documents/sublime/home/shus.css",
+		"/C/Users/PERSONALISE/Documents/sublime/tkj/ujicoba.css",
+		"/C/Users/PERSONALISE/Documents/sublime/tkj/ujicoba.html",
+		"/C/Users/PERSONALISE/Documents/sublime/home/sakkarep.html",
+		"/C/Users/PERSONALISE/Documents/sublime/home/index1.html",
+		"/C/Users/PERSONALISE/Documents/sublime/tkj/index3.html",
+		"/C/Users/PERSONALISE/Documents/sublime/tkj/tkj1.html",
+		"/C/Users/PERSONALISE/Documents/sublime/LOGIN/coba.html",
+		"/C/Users/PERSONALISE/Documents/sublime/LOGIN/index.html",
+		"/C/Users/PERSONALISE/Documents/sublime/latian/index.html",
+		"/C/Users/PERSONALISE/Documents/belajar ngodim/saya.html",
+		"/C/Users/PERSONALISE/Documents/sublime/LOGIN/ali.java",
+		"/C/Users/PERSONALISE/Documents/sublime/LOGIN/fsf.html",
+		"/C/Users/PERSONALISE/Documents/sublime/LOGIN/login1.html",
+		"/C/Users/PERSONALISE/Documents/sublime/LOGIN/HBGFV.html",
+		"/C/Users/PERSONALISE/Documents/sublime/index1.html",
+		"/C/Users/PERSONALISE/Documents/sublime/codingbiasa.html",
+		"/C/Users/PERSONALISE/Documents/sublime/rpl.html",
+		"/C/Users/PERSONALISE/Documents/sublime/tkj.html",
+		"/C/Users/PERSONALISE/Documents/sublime/mm.html",
+		"/C/Users/PERSONALISE/Documents/sublime/halaman3.html",
+		"/C/Users/PERSONALISE/Documents/sublime/halama1.html",
+		"/C/Users/PERSONALISE/Documents/sublime/halaman2.html",
+		"/C/Users/PERSONALISE/Documents/belajar ngodim/goooooooooodd.html",
+		"/C/Users/PERSONALISE/Documents/sublime/jajal.html",
+		"/C/Users/PERSONALISE/Documents/sublime/latian.html",
+		"/C/Users/PERSONALISE/Documents/sublime/tugas.html",
+		"/C/Users/PERSONALISE/Documents/sublime/latian88.html",
+		"/C/Users/PERSONALISE/Documents/sublime/index.html",
+		"/C/Users/PERSONALISE/Documents/belajar ngodim/yfgfghhjg.html",
+		"/C/Users/PERSONALISE/Documents/sublime 1/halaman3.html",
+		"/C/Users/PERSONALISE/Documents/sublime 1/halaman2.html",
+		"/C/Users/PERSONALISE/Documents/sublime 1/halaman1.html",
+		"/C/Users/PERSONALISE/Documents/sublime 1/index1.html",
+		"/C/Users/PERSONALISE/Documents/belajar ngodim/belajar ngodim/14.html",
+		"/C/Users/PERSONALISE/Documents/belajar ngodim/belajar ngodim/coba.html",
+		"/C/Users/PERSONALISE/Documents/belajar ngodim/belajar ngodim/sinau html.html",
+		"/C/Users/PERSONALISE/Documents/halaman2.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/pascal.sublime-build",
+	"project": "cvweb.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\sublime\\tugas1.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
